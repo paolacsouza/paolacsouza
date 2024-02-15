@@ -1,16 +1,15 @@
-### Hi there 👋
+### Olá, eu sou a Paola. Bem-vindos ao meu perfil
 
-<!--
-**paolacsouza/paolacsouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sobre mim
 
-Here are some ideas to get you started:
+-👩🏼‍💻💻 Possuo uma certificação Microsoft: Azure Fundamental (AZ900)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-👩🏼‍💻💻 Sou Graduada em Redes de computadores pela Estacio.
+
+-👩🏼‍💻💻 Possuo MBA em Cloud Computing pela  Faculdade XP Educação - IGTI
+
+-👩🏼‍💻💻 Atualmente estou aprendendo Python, Devops e IA.
+
+-👩🏼‍💻💻 Trabalho com suporte tecnico desde 2014.
+
+-👩🏼‍💻💻 Atualmente trabalho com Asset Management com Análise financeira, Microsoft Office, Liderança em projeto, Gestão de ativos, entre outros na T-Systems Brasil .

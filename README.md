@@ -12,4 +12,4 @@ Sobre mim
 
 -👩🏼‍💻💻 Trabalho com suporte tecnico desde 2014.
 
--👩🏼‍💻💻 Atualmente trabalho como Analista ITAM -IV na empresa 4Matt Tecnologia.
+-👩🏼‍💻💻 Atualmente trabalho como Analista ITAM - IV na empresa 4Matt Tecnologia.

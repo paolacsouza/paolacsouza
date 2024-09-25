@@ -12,4 +12,4 @@ Sobre mim
 
 -👩🏼‍💻💻 Trabalho com suporte tecnico desde 2014.
 
--👩🏼‍💻💻 Atualmente trabalho com Asset Management com Análise financeira, Microsoft Office, Liderança em projeto, Gestão de ativos, entre outros na T-Systems Brasil.
+-👩🏼‍💻💻 Atualmente trabalho como Analista ITAM -IV na empresa 4Matt Tecnologia.

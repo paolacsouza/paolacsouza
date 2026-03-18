@@ -4,12 +4,12 @@ Sobre mim
 
 -👩🏼‍💻💻 Possuo uma certificação Microsoft: Azure Fundamental (AZ900)
 
+-👩🏼‍💻💻 Possuo certificações e micro-certificações em ServiceNow.
+
 -👩🏼‍💻💻 Sou Graduada em Redes de computadores pela Estacio.
 
 -👩🏼‍💻💻 Possuo MBA em Cloud Computing pela  Faculdade XP Educação - IGTI
 
--👩🏼‍💻💻 Atualmente estou aprendendo Python, Devops e IA.
+-👩🏼‍💻💻 Trabalho com TI desde 2014.
 
--👩🏼‍💻💻 Trabalho com suporte tecnico desde 2014.
-
--👩🏼‍💻💻 Atualmente trabalho como Analista ITAM - IV na empresa 4Matt Tecnologia.
+-👩🏼‍💻💻 Atualmente trabalho como ServiceNow Technical Consultant PL na empresa Aoop - an NTT DATA Company.

@@ -12,4 +12,6 @@ Sobre mim
 
 -👩🏼‍💻💻 Trabalho com TI desde 2014.
 
--👩🏼‍💻💻 Atualmente trabalho como ServiceNow Technical Consultant PL na empresa Aoop - an NTT DATA Company.
+-👩🏼‍💻💻 Atualmente trabalho como ServiceNow Technical Consultant SR na empresa Aoop - an NTT DATA Company.
+
+-👩🏼‍💻💻 Tenho certificação ServiceNow (CSA e CIS-DF)
